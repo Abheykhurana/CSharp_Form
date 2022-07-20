@@ -1,0 +1,11 @@
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\bin\Debug\StudentRegisteration.exe.config
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\bin\Debug\StudentRegisteration.exe
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\bin\Debug\StudentRegisteration.pdb
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.csproj.AssemblyReference.cache
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.csproj.SuggestedBindingRedirects.cache
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.Form1.resources
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.Properties.Resources.resources
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.csproj.GenerateResource.cache
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.csproj.CoreCompileInputs.cache
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.exe
+C:\Users\abhey\source\repos\StudentRegisteration\StudentRegisteration\obj\Debug\StudentRegisteration.pdb
